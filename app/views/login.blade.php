@@ -29,7 +29,7 @@
                         <span class="input-group-addon"><i class="fa fa-lock"></i></span><input class="form-control" id="password" placeholder="Contraseña" type="password" name="password">
                     </div>
                     <div class="form-actions clearfix">                      
- <input class="btn btn-block btn-primary btn-default" value="Acceder" type="submit">
+                        <input class="btn btn-block btn-primary btn-default" value="Acceder" type="submit">
                     </div>
                     <div class="footer-login">
                         <div class="pull-left text">
