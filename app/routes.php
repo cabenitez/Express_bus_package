@@ -22,6 +22,12 @@ Route::get('/', function()
 
 });
 
+Route::get('/pruebadir', function()
+{	
+    return View::make('testruta');	
+
+});
+
 //login
 Route::post('login', 'UserLogin@user');
 //logout
